@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SpaceX Rockets</string>
+    <string name="rockets">Rockets</string>
+    <string name="crew">Crew</string>
+    <string name="launches">Launches</string>
+    <string name="launch_success">Success</string>
+    <string name="launch_failure">Failure</string>
+    <string name="cd_rocket_image">Rocket Image</string>
+</resources>
